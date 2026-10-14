@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: AH Lookup
+## Notes: Search Auctionator's saved price data from anywhere, no auction house needed
+## Author: Claude
+## Version: 1.1.0
+## OptionalDeps: Auctionator
+## SavedVariables: AHLookupDB
+
+AHLookup.lua
