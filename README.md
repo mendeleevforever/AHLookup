@@ -1,4 +1,3 @@
-<img width="1230" height="829" alt="AHLookup screenshot" src="https://github.com/user-attachments/assets/ce045478-d14d-4369-a8dc-efcad83062c6" />
 # AH Lookup
 
 A WoW Forever addon that lets you search **Auctionator's saved price data** from anywhere in the world — no need to be at the auction house.
@@ -65,3 +64,7 @@ Prices come from the same sources as Waylaid Crate Advisor and DEValueTooltip:
 2. Fallback: `AUCTIONATOR_PRICE_DATABASE["Realm Faction"][itemID].m`
 
 If no price data shows up, run `/ahl debug` to see what Auctionator data the addon can find.
+
+## Example Image(s)
+
+<img width="1230" height="829" alt="AHLookup screenshot" src="https://github.com/user-attachments/assets/ce045478-d14d-4369-a8dc-efcad83062c6" />
